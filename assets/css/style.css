@@ -29,6 +29,7 @@ body {
     font-weight: 600;
     background: linear-gradient(115deg, #0dff00, #068a08, #010d05);
     background-clip: text;
+    -webkit-background-clip: text;
     color: transparent;
 }
 
@@ -179,6 +180,7 @@ body {
     background: linear-gradient(115deg, #0dff00, #068a08, #010d05);
     background-clip: border-box;
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -256,6 +258,7 @@ body {
     background: linear-gradient(115deg, #0dff00, #068a08, #010d05);
     background-clip: border-box;
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-transform: uppercase;
     font-weight: 700;
@@ -347,6 +350,7 @@ body {
     background: linear-gradient(115deg, #0dff00, #068a08, #010d05);
     background-clip: border-box;
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-transform: uppercase;
     font-size: 18px;
@@ -394,6 +398,7 @@ body {
     background: linear-gradient(115deg, #0dff00, #068a08, #010d05);
     background-clip: border-box;
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-transform: uppercase;
     font-size: 20px;
@@ -466,6 +471,7 @@ body {
     background: linear-gradient(115deg, #0dff00, #068a08, #010d05);
     background-clip: border-box;
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 700;
     font-size: 25px;
@@ -527,6 +533,7 @@ body {
     background: linear-gradient(115deg, #0dff00, #068a08, #010d05);
     background-clip: border-box;
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
